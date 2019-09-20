@@ -1,0 +1,30 @@
+body{
+background-color:lightblue;
+text-align:center;
+}
+h1{
+font-size: 32px;
+}
+h2{font-size: 32px}
+h3{font-size: 32px}
+h4{font-size: 32px}
+h5{font-size: 32px}
+h6{font-size: 32px}
+h7{font-size: 32px}
+h8{font-size: 32px}
+h9{font-size: 32px}
+img{height: 150px
+}
+table{text-align:center}
+th{text-align:center}
+td{text-align:center}
+ul{font: 25px}
+div{opacity: 0.7}
+
+.Style1{
+font-family:"Verdana",Verdana,sans-serif;
+}
+#Style2{
+border :double
+
+}
